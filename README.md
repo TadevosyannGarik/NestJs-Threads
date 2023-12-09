@@ -29,7 +29,7 @@ Editing a profile: Set up your profile, add photos, describe your interests. Thi
 | |
 | ![1](https://github.com/TadevosyannGarik/NextJs-Threads/blob/main/images/profile.png) |
 | |
-| ![1](https://github.com/TadevosyannGarik/NextJs-Threads/blob/main/images/comments.png) |
+| ![1](https://github.com/TadevosyannGarik/NextJs-Threads/blob/main/images/comment.png) |
 | |
 | ![1](https://github.com/TadevosyannGarik/NextJs-Threads/blob/main/images/edit.png) |
 
